@@ -1,0 +1,6 @@
+includes/db.php
+admin/create_admin.php
+test.php
+qr.html
+.vscode/
+*.log
